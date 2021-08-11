@@ -1,2 +1,3 @@
-# google-homepage
-##  This project is to demonstrate my programming skills.
+Test of Google Homepage for Odin Project responsive web design.
+
+
